@@ -1,4 +1,4 @@
-# flutter_application_pc_1
+# 一款基于Flutter 开发的音乐app
 
 A new Flutter project.
 
