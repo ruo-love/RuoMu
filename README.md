@@ -1,6 +1,6 @@
 # 一款基于Flutter 开发的音乐app
 
-A new Flutter project.
+A music App based on Flutter.
 
 ## Getting Started
 
